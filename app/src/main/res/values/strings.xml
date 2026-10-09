@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Richdin Finance</string>
+    <string name="app_tagline">Pencatatan Keuangan Pribadi Berbasis Jatah Harian</string>
+    <string name="widget_name">Jatah Harian &amp; Quick Entry</string>
+</resources>
